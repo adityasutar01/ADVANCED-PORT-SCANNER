@@ -41,7 +41,7 @@ Security testers, network engineers, and ethical hackers use port scanners to:
 
 This project combines **networking + GUI development + multithreading**, making it a perfect intermediate cybersecurity project.
 
-##  Features (Explained Simply)
+##  Features
 
 ###  Modern Dark-Themed GUI  
 A neat, beginner-friendly dashboard built using Tkinter with a cyber-style color theme.
@@ -54,7 +54,7 @@ As ports are scanned, results appear live inside a scrolling text area.
 
 ###  Simple Inputs  
 You only need to enter:
-- Target IP  
+- Target IP (test ip : 127.0.0.1) 
 - Number of ports (example: 1024)
 
 ### Fully Responsive  
@@ -71,9 +71,10 @@ This project shows the understanding of:
 - Real-time UI updates  
 
 ## Project Structure
-    │── port_scanner_gui.py # Main program with GUI + scanner
-    │── README.md # Project documentation
-    │── requirements.txt # Dependencies (only built-in modules)
+│──ADVANCED-PORT-SCANNER
+                        │── port_scanner.py # Main program with GUI + scanner
+                        │── README.md # Project documentation
+                        │── requirements.txt # Dependencies (only built-in modules)
 
 ## Flowchart 
                  ┌──────────────────────────┐
