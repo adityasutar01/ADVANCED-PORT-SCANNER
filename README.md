@@ -1,4 +1,28 @@
 # Advanced Python Port Scanner (with Modern Tkinter GUI)
+<p align="center">
+
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python Version">
+
+  <!-- GUI -->
+  <img src="https://img.shields.io/badge/GUI-Tkinter-green" alt="Tkinter GUI">
+
+  <!-- Project Status -->
+  <img src="https://img.shields.io/badge/Status-Active-success" alt="Project Status">
+
+  <!-- License -->
+  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
+
+  <!-- Stars -->
+  <img src="https://img.shields.io/github/stars/adityasutar01/ADVANCED-PORT-SCANNER?style=social" alt="GitHub Stars">
+
+  <!-- Forks -->
+  <img src="https://img.shields.io/github/forks/adityasutar01/ADVANCED-PORT-SCANNER?style=social" alt="GitHub Forks">
+
+  <!-- Issues -->
+  <img src="https://img.shields.io/github/issues/adityasutar01/ADVANCED-PORT-SCANNER" alt="Issues">
+
+</p>
 
 This project is a fast, user-friendly, and visually modern **Port Scanner** built using Python.  
 Instead of running a scanner from the command-line, this tool gives you a **smooth GUI interface** where you can simply enter a target IP, define how many ports you want to scan, and view results instantly inside the app.
