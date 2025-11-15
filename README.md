@@ -18,10 +18,6 @@
 
   <!-- Forks -->
   <img src="https://img.shields.io/github/forks/adityasutar01/ADVANCED-PORT-SCANNER?style=social" alt="GitHub Forks">
-
-  <!-- Issues -->
-  <img src="https://img.shields.io/github/issues/adityasutar01/ADVANCED-PORT-SCANNER" alt="Issues">
-
 </p>
 
 This project is a fast, user-friendly, and visually modern **Port Scanner** built using Python.  
